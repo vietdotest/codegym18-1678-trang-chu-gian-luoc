@@ -9,4 +9,4 @@ Mở index.html trong trình duyệt.
 https://internship.codegym.vn/learning/18/activity/1678
 
 ## Kiểm tra
-375, 768, 1440 px không tràn ngang. Menu con ẩn mặc định, mở khi dùng Tab. Header/sticky giữ top=0 sau khi cuộn bằng liên kết nội trang.
+375, 768, 1440 px không tràn ngang. Header fixed vẫn có top=0 khi cuộn bằng link Liên hệ; sidebar xếp một cột trên màn hình nhỏ.
